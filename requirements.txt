@@ -1,0 +1,11 @@
+Python3
+Flask
+
+IoT:
+DHT22 Temperature and Humidity Sensor
+BMP180 Pressure and Altitude Sensor
+Capacitive Soil Moisture Sensor
+ESP8266 Wi-Fi Module
+24LC256 I2C EEPROM
+12V Water Pump
+LCD Display
